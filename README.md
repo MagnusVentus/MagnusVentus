@@ -5,5 +5,5 @@ I'm a computer science student at the University of Illinois Chicago with a conc
 
 Languages: 
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,cs,python,go,css,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,rust,godot,cpp,cs,python,go,html,javascript,css,sqlite)](https://skillicons.dev)
 (as well as F#)
